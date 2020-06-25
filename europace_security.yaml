@@ -17,64 +17,64 @@ flows:
         ## Darf neue Plaketten anlegen.
         TODO Beschreibung 
       partner:plakette:loeschen: |
-        ## Darf Plaketten löschen
+        ## Darf Plaketten löschen.
         TODO Beschreibung
       partner:plakette:lesen: |
-        ## Darf Partner-Daten lesen
+        ## Darf Partner-Daten lesen.
         TODO Beschreibung
       partner:plakette:schreiben: |
-        ## Darf Partner-Daten schreiben
+        ## Darf Partner-Daten schreiben.
         TODO Beschreibung
       partner:beziehungen:lesen: |
-        ## Darf Beziehungen zwischen Partnern lesen
+        ## Darf Beziehungen zwischen Partnern lesen.
         TODO Beschreibung
       partner:beziehungen:schreiben: |
-        ## Darf Beziehungen zwischen Partnern schreiben
+        ## Darf Beziehungen zwischen Partnern schreiben.
         TODO Beschreibung
       partner:rechte:lesen: |
-        ## Darf Rechte eines Partners lesen
+        ## Darf Rechte eines Partners lesen.
         TODO Beschreibung
       partner:rechte:schreiben: |
-        ## Darf Rechte eines Partners schreiben
+        ## Darf Rechte eines Partners schreiben.
         TODO Beschreibung
         
       reporting:rohdaten:lesen: |
-        ## Darf im Partnermanagement den Rohdaten-Report runterladen
+        ## Darf im Partnermanagement den Rohdaten-Report runterladen.
         TODO Beschreibung
       reporting:produktanbieterreport:lesen: |
-        ## Darf im Partnermanagement den produktanbieterreport runterladen
+        ## Darf im Partnermanagement den produktanbieterreport runterladen.
         TODO Beschreibung
         
       baufi-vertrieb:echtgeschaeft: |
-        ## Baufinanzierung-Echtgeschäft bearbeiten
+        ## Baufinanzierung-Echtgeschäft bearbeiten.
       baufi-vertrieb:vorgang:lesen: |
-        ## Baufinanzierungsvorgänge lesen
+        ## Baufinanzierungsvorgänge lesen.
       baufi-vertrieb:vorgang:schreiben: |
-        ## Baufinanzierungsvorgänge schreiben
+        ## Baufinanzierungsvorgänge schreiben.
       baufi-vertrieb:vorgang:anlegen: |
-        ## Baufinanzierungsvorgänge anlegen
+        ## Baufinanzierungsvorgänge anlegen.
       baufi-vertrieb:vorgang:loeschen: |
-        ## Baufinanzierungsvorgänge löschen
+        ## Baufinanzierungsvorgänge löschen.
       baufinanzierung:antrag:lesen: |
-        ## Baufinanzierungsanträge lesen
+        ## Baufinanzierungsanträge lesen.
       baufinanzierung:antrag:schreiben: |
-        ## Baufinanzierungsanträge schreiben
+        ## Baufinanzierungsanträge schreiben.
       
       privatkredit:angebot:ermitteln: |
-        ## Kreditsmartangebote ermitteln
+        ## Kreditsmartangebote ermitteln.
       privatkredit:antrag:schreiben: |
-        ## Kreditsmartanträge schreiben
+        ## Kreditsmartanträge schreiben.
       privatkredit:vorgang:lesen: |
-        ## Kreditsmartvorgänge lesen
+        ## Kreditsmartvorgänge lesen.
       privatkredit:vorgang:schreiben: |
-        ## Kreditsmartvorgänge schreiben
+        ## Kreditsmartvorgänge schreiben.
         
       impersonieren: |
-        ## Impersonieren
+        ## Impersonieren.
       openid: |
-        ## Benutzer-Login durchführen
+        ## Benutzer-Login durchführen.
       profile: |
-        ## Benutzerprofil lesen
+        ## Benutzerprofil lesen.
         
     requiredAuthorities:
       baufi-vertrieb:echtgeschaeft: 
